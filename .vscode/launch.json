@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open LatihanInlineStyle.html",
+            "file": "c:\\Users\\Pavilion\\Documents\\Telkom University\\Tugas Telkom University\\Semester 5\\WAD\\1202210355_Druce Arkan Zafran"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+    background-image: url(https://img-global.cpcdn.com/recipes/0eaad5e7f691514b/680x482cq70/nugget-ayam-teri-basah-foto-resep-utama.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+h1{
+    color: burlywood;
+    text-align: center;
+    text-transform:capitalize
+}
+
+h2{
+    color: darkolivegreen;
+    text-align: center;
+    text-decoration :overline;
+}
+
+p{
+    color: whitesmoke;
+    text-align: center;
+
+}

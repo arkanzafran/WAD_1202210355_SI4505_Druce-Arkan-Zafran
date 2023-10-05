@@ -1,0 +1,18 @@
+h1{
+    color: tomato  ;
+    text-align: center;
+}
+
+h2{
+    color:  peachpuff;
+    text-align: left;
+}
+
+h3{
+    text-align: right;
+    color: rosybrown;
+}
+p{
+    color: gainsboro;
+    text-align: center;
+}
